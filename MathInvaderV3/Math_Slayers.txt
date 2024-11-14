@@ -1,0 +1,10 @@
+Creeper,26
+Ash,46
+Hulk,47
+Goku,52
+Thor,80
+Ruben,111
+Pikachu,115
+Omega,160
+Thanos,200
+Alex,431
